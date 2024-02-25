@@ -25,7 +25,7 @@ SECRET_KEY = 'q8n-ae#oo7g+wj)m$=*pqs+!57$%79vdg)vogs1l#m!)4-=bos'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [sakkbatch10.pythonanywhere.com]
 
 
 # Application definition
